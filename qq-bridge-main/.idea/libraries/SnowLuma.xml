@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SnowLuma">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SnowLuma.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
