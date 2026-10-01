@@ -1,0 +1,169 @@
+{
+  "version": 2,
+  "developers": [
+    {
+      "slug": "xiaoliang",
+      "sourceType": "core",
+      "themePreset": "custom",
+      "fontPreset": "default",
+      "name": "小亮",
+      "role": "项目策划人",
+      "qq": "2375505742",
+      "avatar": "/assets/devs/xiaoliang.png",
+      "cover": "/assets/logo.png",
+      "headline": "负责整体方向、玩法规划与团队协作推进。",
+      "quote": "把脑海里的城市和居民系统，一点点落成能玩的世界。",
+      "bio": "负责项目方向、玩法设计与开发协同，重点关注 NPC 生态、城市成长感和内容节奏，希望这个模组能让玩家在原版世界里拥有更鲜活的聚落体验。",
+      "tags": [
+        "玩法策划",
+        "城市模拟",
+        "原版风格",
+        "内容统筹"
+      ],
+      "links": [
+        {
+          "label": "返回官网",
+          "url": "/"
+        },
+        {
+          "label": "反馈",
+          "url": "/feedback.html"
+        }
+      ],
+      "projects": [
+        {
+          "title": "模组世界观规划",
+          "subtitle": "从居民生成到城市成长的整体玩法路线",
+          "url": "/index.html#features",
+          "cta": "查看官网"
+        },
+        {
+          "title": "开发任务协同",
+          "subtitle": "整理版本目标、需求优先级与测试节奏",
+          "url": "/admin.html",
+          "cta": "进入后台"
+        }
+      ],
+      "radar": {
+        "ideas": 100,
+        "innovation": 0,
+        "logic": 0,
+        "tech": 0,
+        "service": 23,
+        "engagement": 0
+      },
+      "background": {
+        "accentA": "#7dd3fc",
+        "accentB": "#a78bfa",
+        "starColor": "#ffffff",
+        "particleDensity": 78,
+        "cover": "/assets/logo.png"
+      }
+    },
+    {
+      "slug": "kafei",
+      "sourceType": "core",
+      "themePreset": "custom",
+      "fontPreset": "default",
+      "name": "咖啡",
+      "role": "1.21.1 版本开发者",
+      "qq": "1780412693",
+      "avatar": "/assets/devs/kafei.png",
+      "cover": "/assets/logo.png",
+      "headline": "主攻 1.21.1 版本功能实现与系统落地。",
+      "quote": "让每一个功能都能稳稳跑起来，比堆功能更重要。",
+      "bio": "聚焦 Fabric 侧功能实现与版本适配，负责把设计转成实际玩法，关注系统稳定性、交互手感与版本可维护性，尽量让模组升级和修复都更顺。",
+      "tags": [
+        "功能开发",
+        "版本适配",
+        "系统实现",
+        "稳定性"
+      ],
+      "links": [
+        {
+          "label": "返回官网",
+          "url": "/"
+        },
+        {
+          "label": "下载页面",
+          "url": "/index.html#download"
+        }
+      ],
+      "projects": [
+        {
+          "title": "居民工作系统",
+          "subtitle": "建造、耕作与购买等行为逻辑实现",
+          "url": "/gallery.html",
+          "cta": "查看截图"
+        },
+        {
+          "title": "Mod 下载维护",
+          "subtitle": "版本整理、文件上传与发布链路维护",
+          "url": "/admin.html",
+          "cta": "管理版本"
+        }
+      ],
+      "radar": {
+        "ideas": 80,
+        "innovation": 76,
+        "logic": 89,
+        "tech": 93,
+        "service": 72,
+        "engagement": 86
+      },
+      "background": {
+        "accentA": "#38bdf8",
+        "accentB": "#6366f1",
+        "starColor": "#f8fafc",
+        "particleDensity": 72,
+        "cover": "/assets/logo.png"
+      }
+    },
+    {
+      "slug": "menglannnn",
+      "sourceType": "core",
+      "themePreset": "starry",
+      "fontPreset": "yuanti",
+      "name": "梦蓝",
+      "role": "1.21.1 版本开发者",
+      "qq": "3630797734",
+      "avatar": "/assets/devs/menglannnn.png",
+      "cover": "/uploads/developers/menglannnn/1763820209422.jpeg",
+      "headline": "1.21.1版本开发者",
+      "quote": "蛋糕店里卖蛋糕",
+      "bio": "参与 1.21.1 版本核心玩法开发、Bug 修复",
+      "tags": [
+        "玩法打磨",
+        "联调修复",
+        "体验优化",
+        "版本共建"
+      ],
+      "links": [
+        {
+          "label": "返回官网",
+          "url": "/"
+        },
+        {
+          "label": "图集预览",
+          "url": "/gallery.html"
+        }
+      ],
+      "projects": [],
+      "radar": {
+        "ideas": 100,
+        "innovation": 72,
+        "logic": 85,
+        "tech": 77,
+        "service": 37,
+        "engagement": 100
+      },
+      "background": {
+        "accentA": "#67c8ff",
+        "accentB": "#8b7bff",
+        "starColor": "#f8fbff",
+        "particleDensity": 104,
+        "cover": "/uploads/developers/menglannnn/1763820209422.jpeg"
+      }
+    }
+  ]
+}

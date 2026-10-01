@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "users": [
+    {
+      "username": "2375505742",
+      "displayName": "小亮",
+      "role": "admin",
+      "password": {
+        "salt": "y7neJ4cbH4EGVEGyY5DUHg==",
+        "hash": "L773aIE4cwVqXu8HzvOGZu2/an7OoW8Fa+fSm6ZmuCStWmJl7GWH304unPBAftscI4mt2EWfvVcnrflyNXqHtw=="
+      },
+      "mustChangePassword": false,
+      "createdAt": "2026-06-04T18:55:27.666Z",
+      "updatedAt": "2026-06-04T19:10:59.462Z",
+      "lastLoginAt": "2026-06-05T00:57:03.089Z",
+      "qq": "2375505742",
+      "aliases": [
+        "xiaoliang"
+      ],
+      "roleKey": "admin",
+      "permissionLevel": 3,
+      "avatar": "/assets/logo.png",
+      "intro": "",
+      "wallType": "none"
+    },
+    {
+      "username": "1780412693",
+      "displayName": "咖啡",
+      "role": "admin",
+      "password": {
+        "salt": "soS+CcZlnBYFFVUwrCuqGg==",
+        "hash": "qrSkCR0Z4DbSCPdPRv+oM9Xtd4a8GCCGAs0ZWuba6gxkWVNb83RdiJ+9ht5H0pHCxmW3h4GGPyZGwGcS4MUmOg=="
+      },
+      "mustChangePassword": true,
+      "createdAt": "2026-06-04T18:55:27.666Z",
+      "updatedAt": "2026-06-04T19:08:13.645Z",
+      "lastLoginAt": null,
+      "qq": "1780412693",
+      "aliases": [
+        "kafei"
+      ],
+      "roleKey": "admin",
+      "permissionLevel": 3,
+      "avatar": "/assets/logo.png",
+      "intro": "",
+      "wallType": "none"
+    },
+    {
+      "username": "3630797734",
+      "displayName": "梦蓝",
+      "role": "admin",
+      "password": {
+        "salt": "nkpAEay9hq8tEMLFyB2MPQ==",
+        "hash": "K3ue220h2z8afixA2nlJ5ZqGZk4CTzWYyOGypjB7O8k16omQjJENhYJxNi+O+smtUOvX5N2ivFTBdIdnSET58g=="
+      },
+      "mustChangePassword": false,
+      "createdAt": "2026-06-04T18:55:27.666Z",
+      "updatedAt": "2026-06-04T19:11:48.478Z",
+      "lastLoginAt": "2026-06-08T05:10:06.005Z",
+      "qq": "3630797734",
+      "aliases": [
+        "menglannnn"
+      ],
+      "roleKey": "admin",
+      "permissionLevel": 3,
+      "avatar": "/assets/logo.png",
+      "intro": "",
+      "wallType": "none"
+    },
+    {
+      "username": "xiaozuo",
+      "displayName": "X小左",
+      "roleKey": "sponsor",
+      "permissionLevel": 2,
+      "wallType": "sponsor",
+      "intro": "一位赞助者",
+      "avatar": "/uploads/users/xiaozuo/b_a14d6abff72f57a2b600a6289edfe4d5.jpg",
+      "qq": "",
+      "aliases": [],
+      "developerSlug": "",
+      "password": {
+        "salt": "ZOK0EIf79jkn/egElIwNTg==",
+        "hash": "Vc22H8c+YC0RGFLlg+AMkrwettmuZhsx7P7X0qT4QqlS1TEq83I8eL6BPqOk73uOtWwgRsGbmuWIV8IRKdmpTA=="
+      },
+      "mustChangePassword": true,
+      "createdAt": "2026-06-04T23:39:15.774Z",
+      "updatedAt": "2026-06-04T23:39:15.807Z",
+      "lastLoginAt": null
+    },
+    {
+      "username": "临沧OVO",
+      "displayName": "华为魅特60PromaxX3DUrla",
+      "roleKey": "sponsor",
+      "permissionLevel": 2,
+      "wallType": "sponsor",
+      "intro": "一位玩我的世界的入",
+      "avatar": "/uploads/users/%E4%B8%B4%E6%B2%A7OVO/3dbec4dc0974a9ccd33a2b51cccad4ae.jpg",
+      "qq": "",
+      "aliases": [],
+      "developerSlug": "",
+      "password": {
+        "salt": "vfhI6IP0S8UIIEGGCHfTAA==",
+        "hash": "JE9Tyu44U4JZ9kH8GiN0Dy7sTZcCwL+LADLmHm9KM4BV8JKCShil8STxxa1fbiDFKYxz52xTSJyp9miAhfj7Ng=="
+      },
+      "mustChangePassword": true,
+      "createdAt": "2026-06-06T16:48:18.700Z",
+      "updatedAt": "2026-06-06T16:48:18.740Z",
+      "lastLoginAt": null
+    }
+  ]
+}

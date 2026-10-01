@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>账户主页</title>
+    <meta name="description" content="站点账户个人主页" />
+    <link rel="icon" href="/assets/logo.png" type="image/png" />
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem("site-theme");
+          const theme = saved || "light";
+          document.documentElement.dataset.theme = theme;
+          document.documentElement.style.colorScheme = theme;
+        } catch {
+          document.documentElement.dataset.theme = "dark";
+          document.documentElement.style.colorScheme = "dark";
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260710-02" />
+    <link rel="stylesheet" href="/assets/developer.css?v=20260710-02" />
+  </head>
+  <body data-profile-mode="user">
+    <div class="page-transition is-hidden" id="page-transition" aria-hidden="true">
+      <div class="page-transition__inner">
+        <svg class="page-transition__spinner" viewBox="0 0 50 50" aria-hidden="true">
+          <circle r="25" cx="25" cy="25"></circle>
+        </svg>
+        <p class="page-transition__text">LOADING</p>
+      </div>
+    </div>
+        <script>
+      (() => {
+        try {
+          const raw = sessionStorage.getItem("page-transition-pending");
+          if (!raw) return;
+          const at = Number(raw);
+          const overlay = document.getElementById("page-transition");
+          if (!(overlay instanceof HTMLElement)) return;
+          if (Number.isFinite(at) && Date.now() - at < 8000) {
+            overlay.classList.remove("is-hidden", "is-leaving");
+            overlay.classList.add("is-spinning");
+            overlay.dataset.shownAt = String(performance.now());
+            document.body.classList.add("is-page-transitioning");
+          } else {
+            sessionStorage.removeItem("page-transition-pending");
+          }
+        } catch {
+        }
+      })();
+    </script><canvas class="profile-sky" id="profile-sky" aria-hidden="true"></canvas>
+    <header class="topbar">
+      <a class="brand" href="/">
+        <img class="brand__logo" src="/assets/logo.png" alt="Logo" onerror="this.onerror=null;this.src='/logo.svg';" />
+        <span class="brand__text">NewSimUKraft</span>
+      </a>
+      <nav class="nav">
+        <a href="/">返回首页</a>
+        <a href="/workshop.html">创意工坊</a>
+        <a href="/gallery.html">图集</a>
+        <a href="/feedback.html">反馈</a>
+        <button class="theme-toggle" type="button" data-theme-toggle="1" aria-label="切换主题">
+          <span class="theme-toggle__icon" data-theme-icon>☀</span>
+          <span class="theme-toggle__label" data-theme-label>亮色</span>
+        </button>
+      </nav>
+    </header>
+
+    <main class="section">
+      <div class="profile-shell">
+        <section class="profile-hero">
+          <div class="profile-pane">
+            <div class="profile-cover">
+              <img id="profile-cover" src="/assets/logo.png" alt="" />
+              <div class="profile-cover__content">
+                <div class="profile-id">
+                  <img class="profile-avatar" id="profile-avatar" src="/assets/logo.png" alt="" />
+                  <div class="profile-id__text">
+                    <div class="profile-kicker">Hi, I&apos;m</div>
+                    <h1 class="profile-name" id="profile-name">加载中...</h1>
+                    <div class="button-row" style="margin: 0 0 8px;">
+                      <span class="profile-role-badge" id="profile-permission-badge" hidden></span>
+                    </div>
+                    <div class="profile-role" id="profile-role">加载中...</div>
+                  </div>
+                </div>
+                <div class="profile-clockbox">
+                  <div class="profile-clock" id="profile-clock">-- : -- : --</div>
+                  <div class="profile-date" id="profile-date">----</div>
+                </div>
+              </div>
+            </div>
+            <p class="profile-headline" id="profile-headline"></p>
+            <div class="profile-quote-group">
+              <div class="profile-quote__label">个性签名</div>
+              <p class="profile-quote" id="profile-quote"></p>
+            </div>
+            <div class="button-row profile-owner-actions" hidden>
+              <button class="btn btn--primary" type="button" id="profile-edit-toggle" hidden>编辑我的主页</button>
+            </div>
+          </div>
+
+          <aside class="profile-side">
+            <h2 class="profile-side__title">关于我</h2>
+            <div class="profile-side__text" id="profile-bio"></div>
+            <div class="profile-metric">
+              <div class="profile-metric__label">联系 QQ</div>
+              <div class="profile-metric__value" id="profile-qq">—</div>
+            </div>
+            <div class="profile-radar-card profile-radar-card--side">
+              <canvas class="profile-radar" id="profile-radar" aria-label="能力雷达图"></canvas>
+            </div>
+            <div class="toast" id="profile-toast"></div>
+          </aside>
+        </section>
+
+        <section class="profile-grid">
+          <section class="profile-section">
+            <div class="profile-projects" id="profile-projects"></div>
+          </section>
+        </section>
+
+        <section class="panel profile-editor" id="profile-editor" hidden></section>
+      </div>
+    </main>
+
+    <script type="module" src="/assets/site.js?v=20260710-02"></script>
+    <script type="module" src="/assets/developer.js?v=20260710-02"></script>
+  </body>
+</html>
+
+
+

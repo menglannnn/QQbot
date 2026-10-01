@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>登录</title>
+    <meta name="description" content="登录 New-Sim-U-Kraft 账号" />
+    <link rel="icon" href="/assets/logo.png" type="image/png" />
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem("site-theme");
+          const theme = saved || "light";
+          document.documentElement.dataset.theme = theme;
+          document.documentElement.style.colorScheme = theme;
+        } catch {
+          document.documentElement.dataset.theme = "dark";
+          document.documentElement.style.colorScheme = "dark";
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260710-02" />
+  </head>
+
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/">
+        <img class="brand__logo" src="/assets/logo.png" alt="Logo" onerror="this.onerror=null;this.src='/logo.svg';" />
+        <span class="brand__text">模组官网</span>
+      </a>
+      <nav class="nav">
+        <a href="/">返回首页</a>
+        <a href="/register.html">注册</a>
+        <button class="theme-toggle" type="button" data-theme-toggle="1" aria-label="切换主题">
+          <span class="theme-toggle__icon" data-theme-icon>☀</span>
+          <span class="theme-toggle__label" data-theme-label>亮色</span>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section section--tight">
+        <div class="section__head">
+          <h1 class="h1">登录</h1>
+        </div>
+        <form class="form" id="login-form" style="max-width:420px;">
+          <div class="field">
+            <div class="field__label">用户名 / QQ / 邮箱</div>
+            <input class="input" id="login-username" required />
+          </div>
+          <div class="field">
+            <div class="field__label">密码</div>
+            <input class="input" id="login-password" type="password" required />
+          </div>
+          <div class="form__actions">
+            <div class="hint">还没有账号?<a href="/register.html">去注册</a></div>
+            <button class="btn btn--primary" type="submit">登录</button>
+          </div>
+        </form>
+        <div class="toast" id="login-toast"></div>
+      </section>
+    </main>
+
+    <script type="module" src="/assets/site.js?v=20260710-02"></script>
+    <script type="module" src="/assets/login.js?v=20260710-02"></script>
+  </body>
+</html>

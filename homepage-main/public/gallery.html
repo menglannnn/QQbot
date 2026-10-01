@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>游戏图集</title>
+    <meta name="description" content="模组游戏截图图集" />
+    <link rel="icon" href="/assets/logo.png" type="image/png" />
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem("site-theme");
+          const theme = saved || "light";
+          document.documentElement.dataset.theme = theme;
+          document.documentElement.style.colorScheme = theme;
+        } catch {
+          document.documentElement.dataset.theme = "dark";
+          document.documentElement.style.colorScheme = "dark";
+        }
+      })();
+    </script>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260710-02" />
+  </head>
+  <body>
+    <div class="page-transition is-hidden" id="page-transition" aria-hidden="true">
+      <div class="page-transition__inner">
+        <svg class="page-transition__spinner" viewBox="0 0 50 50" aria-hidden="true">
+          <circle r="25" cx="25" cy="25"></circle>
+        </svg>
+        <p class="page-transition__text">LOADING</p>
+      </div>
+    </div>
+        <script>
+      (() => {
+        try {
+          const raw = sessionStorage.getItem("page-transition-pending");
+          if (!raw) return;
+          const at = Number(raw);
+          const overlay = document.getElementById("page-transition");
+          if (!(overlay instanceof HTMLElement)) return;
+          if (Number.isFinite(at) && Date.now() - at < 8000) {
+            overlay.classList.remove("is-hidden", "is-leaving");
+            overlay.classList.add("is-spinning");
+            overlay.dataset.shownAt = String(performance.now());
+            document.body.classList.add("is-page-transitioning");
+          } else {
+            sessionStorage.removeItem("page-transition-pending");
+          }
+        } catch {
+        }
+      })();
+    </script><header class="topbar">
+      <a class="brand" href="/">
+        <img class="brand__logo" src="/assets/logo.png" alt="Logo" onerror="this.onerror=null;this.src='/logo.svg';" />
+        <span class="brand__text">模组官网</span>
+      </a>
+      <nav class="nav">
+        <a href="/">返回首页</a>
+        <button class="theme-toggle" type="button" data-theme-toggle="1" aria-label="切换主题">
+          <span class="theme-toggle__icon" data-theme-icon>☀</span>
+          <span class="theme-toggle__label" data-theme-label>亮色</span>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section section--tight">
+        <div class="section__head">
+          <h1 class="h1">游戏图集</h1>
+          <p>自动读取 uploads/gallery 下的图片</p>
+        </div>
+        <div class="tabs" id="tabs"></div>
+        <div class="gallery" id="gallery"></div>
+      </section>
+    </main>
+
+    <div class="modal" id="img-modal" hidden>
+      <div class="modal__backdrop" data-close="1"></div>
+      <div class="modal__content" role="dialog" aria-modal="true">
+        <button class="modal__close" type="button" data-close="1" aria-label="关闭">×</button>
+        <img class="modal__img" id="modal-img" alt="" />
+        <div class="modal__caption" id="modal-caption"></div>
+        <div class="modal__nav">
+          <button class="btn btn--ghost" type="button" id="modal-prev">上一张</button>
+          <button class="btn btn--ghost" type="button" id="modal-next">下一张</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/assets/site.js?v=20260710-02"></script>
+    <script type="module" src="/assets/gallery.js?v=20260710-02"></script>
+  </body>
+</html>
+
+
+

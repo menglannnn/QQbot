@@ -1,0 +1,304 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>模组官网</title>
+    <meta name="description" content="Minecraft 模组官网，提供下载、介绍与反馈入口" />
+    <link rel="icon" href="/assets/logo.png" type="image/png" />
+    <script>
+      (() => {
+        try {
+          const saved = localStorage.getItem("site-theme");
+          const theme = saved || "light";
+          document.documentElement.dataset.theme = theme;
+          document.documentElement.style.colorScheme = theme;
+        } catch {
+          document.documentElement.dataset.theme = "dark";
+          document.documentElement.style.colorScheme = "dark";
+        }
+      })();
+    </script>
+    <link rel="preload" href="/assets/styles.css?v=20260710-02" as="style" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260710-02" />
+  </head>
+  <body>
+    <div class="page-transition is-hidden" id="page-transition" aria-hidden="true">
+      <div class="page-transition__inner">
+        <svg class="page-transition__spinner" viewBox="0 0 50 50" aria-hidden="true">
+          <circle r="25" cx="25" cy="25"></circle>
+        </svg>
+        <p class="page-transition__text">LOADING</p>
+      </div>
+    </div>
+        <script>
+      (() => {
+        try {
+          const raw = sessionStorage.getItem("page-transition-pending");
+          if (!raw) return;
+          const at = Number(raw);
+          const overlay = document.getElementById("page-transition");
+          if (!(overlay instanceof HTMLElement)) return;
+          if (Number.isFinite(at) && Date.now() - at < 8000) {
+            overlay.classList.remove("is-hidden", "is-leaving");
+            overlay.classList.add("is-spinning");
+            overlay.dataset.shownAt = String(performance.now());
+            document.body.classList.add("is-page-transitioning");
+          } else {
+            sessionStorage.removeItem("page-transition-pending");
+          }
+        } catch {
+        }
+      })();
+    </script><header class="topbar">
+      <a class="brand" href="/">
+        <img class="brand__logo" src="/assets/logo.png" alt="Logo" onerror="this.onerror=null;this.src='/logo.svg';" />
+        <span class="brand__text">NewSimUKraft</span>
+      </a>
+      <nav class="nav">
+        <a href="#download">下载</a>
+        <a href="/workshop.html">创意工坊</a>
+        <a href="#devs">开发者</a>
+        <a href="#changelog">更新日志</a>
+        <a href="#contact">联系</a>
+        <a class="nav__btn" href="/feedback.html">反馈</a>
+        <button class="theme-toggle" type="button" data-theme-toggle="1" aria-label="切换主题">
+          <span class="theme-toggle__icon" data-theme-icon>☀</span>
+          <span class="theme-toggle__label" data-theme-label>亮色</span>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="top">
+        <div class="hero__flow" aria-hidden="true">
+          <div class="hero__flow-row">
+            <span>NPC</span><span>BUILD</span><span>FARM</span><span>TOWNSCAPE</span><span>VANILLA</span><span>SIM</span><span>COOP</span><span>NEW</span><span>SIMUKRAFT</span>
+          </div>
+          <div class="hero__flow-row hero__flow-row--reverse">
+            <span>生存</span><span>市民</span><span>建筑</span><span>村镇</span><span>耕作</span><span>发展</span><span>协作</span><span>原版风</span><span>生活感</span>
+          </div>
+        </div>
+
+        <div class="hero__inner hero__inner--media">
+          <div class="hero__media">
+            <img class="hero__media-img" src="/assets/hero-left.png" alt="主页展示" loading="eager" />
+            <img class="hero__main-logo" src="/assets/logo-large.png" alt="NewSimUKraft 标志" loading="eager" />
+            <div class="hero__actions hero__media-actions">
+              <a class="btn btn--primary" href="#download" id="hero-download">前往下载</a>
+              <a class="btn btn--ghost" href="/workshop.html">创意工坊</a>
+              <a class="btn btn--ghost" href="https://b23.tv/yiMKX5f" target="_blank" rel="noreferrer">B站介绍视频</a>
+              <a class="btn btn--ghost" href="/feedback.html">反馈</a>
+            </div>
+          </div>
+          <aside class="hero__tab" id="hero-tab">
+            <div class="hero__tab-quote" aria-hidden="true">"</div>
+            <div class="hero__tab-kicker">Welcome Home !</div>
+            <div class="hero__kicker">NewSimUKraft</div>
+            <h1 class="hero__title">Minecraft New-Sim-U-Kraft</h1>
+            <div class="hero__tab-line"></div>
+            <p class="hero__desc">
+              世界中会生成模拟市民（NPC），你可以雇佣他们进行建造、耕作与日常协作。模组提供多样的房屋与建筑，让城市发展更自然，也更接近原版风格的生存体验。</p>
+          </aside>
+          <div class="hero__toolbar">
+            <div class="hero__card hero__card--compact">
+              <div class="announce">
+                <div class="announce__icon" aria-hidden="true">📢</div>
+                <div class="announce__track" id="announce-track">
+                  <div class="announce__item">公告加载中...</div>
+                </div>
+              </div>
+              <div class="hero__meta hero__meta--inline">
+                <div class="meta__row">
+                  <span class="meta__label">最新版</span>
+                  <span class="meta__value" id="latest-version">—</span>
+                </div>
+                <div class="meta__row">
+                  <span class="meta__label">外链数量</span>
+                  <span class="meta__value" id="latest-size">—</span>
+                </div>
+                <div class="meta__row">
+                  <span class="meta__label">维护时间</span>
+                  <span class="meta__value" id="latest-date">—</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="changelog">
+        <div class="section__head" data-kicker="changelog">
+          <h2>更新日志</h2>
+          <p>网站与版本动态统一从配置读取并同步展示</p>
+        </div>
+        <div class="history is-open" id="changelog-list">
+          <div class="history__item">
+            <div class="history__left">
+              <div class="history__name">更新日志加载中...</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="features">
+        <div class="section__head" data-kicker="features">
+          <h2>模组特色</h2>
+          <p>保持原版风格与清晰的玩法目标</p>
+        </div>
+        <div class="grid grid--4" id="features-grid">
+          <div class="card">
+            <div class="card__icon">👥</div>
+            <div class="card__title">模拟市民</div>
+            <div class="card__desc">在世界中生成智能模拟市民，他们会在城镇里生活、工作并参与互动。</div>
+          </div>
+          <div class="card">
+            <div class="card__icon">🛠</div>
+            <div class="card__title">雇佣建造</div>
+            <div class="card__desc">雇佣市民帮助你建造建筑与设施，让发展过程更轻松也更有代入感。</div>
+          </div>
+          <div class="card">
+            <div class="card__icon">🌾</div>
+            <div class="card__title">自动耕作</div>
+            <div class="card__desc">市民可以自动耕作与收获，为你的城镇持续提供稳定的物资来源。</div>
+          </div>
+          <div class="card">
+            <div class="card__icon">🏠</div>
+            <div class="card__title">多样建筑</div>
+            <div class="card__desc">支持多种房屋与建筑类型，逐步打造更完整、更有生活感的城市。</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="screenshots">
+        <div class="section__head section__head--row" data-kicker="screenshots">
+          <div>
+            <h2>游戏截图</h2>
+            <p>点击图片可放大浏览。</p>
+          </div>
+          <a class="link" href="/gallery.html">查看更多截图 -></a>
+        </div>
+        <div class="carousel" id="carousel">
+          <button class="carousel__btn" type="button" data-dir="-1" aria-label="上一张">◀</button>
+          <div class="carousel__viewport" id="carousel-viewport"></div>
+          <button class="carousel__btn" type="button" data-dir="1" aria-label="下一张">▶</button>
+        </div>
+        <div class="shotgrid" id="shotgrid" aria-label="玩家截图列表"></div>
+      </section>
+
+      <section class="section" id="download">
+        <div class="section__head" data-kicker="download">
+          <h2>下载模组</h2>
+          <p>当前仅提供站外下载链接，所有版本信息由后台统一维护。</p>
+        </div>
+
+        <div class="panel">
+          <div class="panel__row">
+            <label class="label" for="branch">选择分支版本</label>
+            <select class="select" id="branch"></select>
+          </div>
+
+          <div class="download__latest" id="download-latest"></div>
+
+          <div class="download__history">
+            <button class="collapse" type="button" id="toggle-history">
+              <span>历史版本</span>
+              <span class="collapse__chev" aria-hidden="true">▾</span>
+            </button>
+            <div class="history" id="history"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="devs">
+        <div class="section__head" data-kicker="developers">
+          <h2>开发者墙</h2>
+          <p>核心成员与联动账户会在这里同步展示。</p>
+        </div>
+        <div class="grid grid--3" id="developers-wall">
+          <div class="panel panel--empty">开发者墙加载中...</div>
+        </div>
+      </section>
+
+      <section class="section" id="sponsors">
+        <div class="section__head" data-kicker="sponsors">
+          <h2>赞助者墙</h2>
+          <p>后台加入赞助者墙的账户会自动同步到这里。</p>
+        </div>
+        <div class="grid grid--3" id="sponsors-wall">
+          <div class="panel panel--empty">赞助者墙加载中...</div>
+        </div>
+      </section>
+
+      <section class="section" id="contact">
+        <div class="section__head" data-kicker="contact">
+          <h2>联系我们</h2>
+          <p>如有问题或建议，欢迎联系</p>
+        </div>
+        <div class="panel">
+          <div class="contact">
+            <div class="contact__row">
+              <span class="contact__label">模组作者</span>
+              <span class="contact__value">小亮（375505742） / 咖啡（780412693） / 梦蓝（630797734）</span>
+            </div>
+            <div class="contact__row">
+              <span class="contact__label">QQ群</span>
+              <span class="contact__value">1群：1046985079 / 2群：938462178</span>
+            </div>
+            <div class="contact__row">
+              <span class="contact__label">反馈渠道</span>
+              <span class="contact__value">
+                <a class="link" href="https://github.com/" target="_blank" rel="noreferrer">GitHub</a>
+                <span class="muted"> / </span>
+                <a class="link" href="https://docs.qq.com/" target="_blank" rel="noreferrer">腾讯文档</a>
+              </span>
+            </div>
+            <div class="contact__row">
+              <span class="contact__label">反馈</span>
+              <span class="contact__value">
+                <a class="link" href="/feedback.html">提交反馈</a>
+                <span class="muted"> / </span>
+                <a class="link" href="/admin.html" data-auth-required="1" data-auth-min-level="2" hidden>后台查看</a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="brand-banner" aria-label="品牌横幅">
+        <div class="brand-banner__inner">
+          <img class="brand-banner__logo" src="/assets/logo.png" alt="NewSimUKraft Logo" />
+          <div class="brand-banner__text">
+            <div class="brand-banner__title">NEW:SIMUKRAFT</div>
+            <div class="brand-banner__sub">在Minecraft里建造更有生活气息的城镇</div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="footer__inner">
+        <span class="muted">(c) <span id="year"></span> New-Sim-U-Kraft-mod</span>
+      </div>
+    </footer>
+
+    <div class="modal" id="img-modal" hidden>
+      <div class="modal__backdrop" data-close="1"></div>
+      <div class="modal__content" role="dialog" aria-modal="true">
+        <button class="modal__close" type="button" data-close="1" aria-label="关闭">×</button>
+        <img class="modal__img" id="modal-img" alt="" />
+        <div class="modal__caption" id="modal-caption"></div>
+        <div class="modal__nav">
+          <button class="btn btn--ghost" type="button" id="modal-prev">上一张</button>
+          <button class="btn btn--ghost" type="button" id="modal-next">下一张</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="/assets/site.js?v=20260710-02"></script>
+    <script type="module" src="/assets/app.js?v=20260710-02"></script>
+  </body>
+</html>
+
+
+

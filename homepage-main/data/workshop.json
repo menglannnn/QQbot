@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mq4qhpgf_xib4ke03",
+      "draftId": "ws_mq4qhpg6_0mibniev",
+      "title": "尼玛炸了",
+      "category": "residence",
+      "description": "你吗炸了",
+      "files": {
+        "nbt": {
+          "kind": "nbt",
+          "name": "u1.nbt",
+          "url": "/uploads/workshop/ws_mq4qhpg6_0mibniev/nbt/u1.nbt",
+          "size": 628
+        }
+      },
+      "externalLinks": [],
+      "authorUsername": "3630797734",
+      "authorDisplayName": "梦蓝",
+      "status": "pending",
+      "reviewReason": "",
+      "reviewedBy": "",
+      "createdAt": "2026-06-08T04:51:51.711Z",
+      "updatedAt": "2026-06-08T04:51:51.711Z",
+      "reviewedAt": null,
+      "publishedAt": null
+    }
+  ]
+}

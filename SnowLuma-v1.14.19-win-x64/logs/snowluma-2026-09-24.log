@@ -1,0 +1,1278 @@
+00:09:00 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=332
+00:09:01 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:09:15 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=332
+00:09:16 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:09:19 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:10:28 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=332
+00:10:29 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:12:29 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=332
+00:12:30 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:12:33 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:13:48 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=332
+00:13:48 DEBUG              [MsgPush.Unknown] Event0x210 unknown subType=382
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:17:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:17:57 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-1191818523 @1780412693 [空消息] [图片]
+00:17:57 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=1780412693
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:18:30 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:18:30 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:667313433 我这配了但没看到请求
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:18:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:18:34 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:1318188486 [图片]
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:18:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:18:42 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-752837818 好像还是从你那走的
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:19:14 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:1936917751 @3630797734 [空消息]
+00:19:14 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=3630797734
+00:19:15 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+00:19:15 DEBUG [3868978960] [Highway.Image] uploading 721953 bytes md5=52c1089e... → group 455415527
+00:19:15 DEBUG [3868978960] [Highway] image fast-upload hit for sub=top (server reusing cached resource)
+00:19:15 DEBUG [3868978960] [Highway] image fast-upload hit (server already had bytes)
+00:19:15 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+00:19:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+00:19:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+00:19:16 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:399363724 [图片]
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:19:20 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:20 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:587015022 支付宝码发我
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=111 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=88 reason=no schema decoder path=elem.generalFlags
+00:19:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:22 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [阿拉贡(3050808784)]: ID:2054120644 [回复 [独断万古(2843573511)]: 群峦格雷] @2843573511 赶上贝爷求生了
+00:19:22 DEBUG [3868978960] [Bridge.Action] get_msg params=message_id=-153253083
+00:19:22 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=1012992000 user_id=2843573511
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:19:23 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:23 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-632000617 给你转钱
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:19:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:19:25 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-703053414 ?
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:19:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:19:28 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-1360668743 干什么
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=101 reason=no schema decoder path=elem.generalFlags
+00:19:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:46 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [独断万古(2843573511)]: ID:-478079128 贝爷有这个舒服？
+00:19:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:19:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:19:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:19:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=102 reason=no schema decoder path=elem.generalFlags
+00:19:54 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:194081473 [聊天记录]
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:20:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:20:13 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:797473454 把和梨小达的问题处理了一下
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:20:18 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:20:18 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1932237144 明天拟协议
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=111 reason=no schema decoder path=elem.generalFlags
+00:20:35 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:20:35 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [阿拉贡(3050808784)]: ID:-1738627865 我喜欢休闲的
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:21:00 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:21:00 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1805896524 梨小达给我钱了
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+00:21:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:21:04 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:350984850 我给你
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:21:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:21:24 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-1594572832 发工资第一件事情
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:21:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:21:29 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-2003607066 充电费
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=3 reason=no schema decoder path=elem.generalFlags
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=118 reason=no schema decoder path=elem.generalFlags
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:22:14 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-595656866 [图片]
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=106 reason=no schema decoder path=elem.generalFlags
+00:25:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:25:40 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-114065219 艹
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:25:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:25:45 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1756190197 @2375505742 [空消息]
+00:25:45 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=2375505742
+00:25:45 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+00:25:45 DEBUG [3868978960] [Highway.Image] uploading 721953 bytes md5=52c1089e... → group 455415527
+00:25:46 DEBUG [3868978960] [Highway] image fast-upload hit for sub=top (server reusing cached resource)
+00:25:46 DEBUG [3868978960] [Highway] image fast-upload hit (server already had bytes)
+00:25:46 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+00:25:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:25:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+00:25:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+00:25:46 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:-271690639 [图片]
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=106 reason=no schema decoder path=elem.generalFlags
+00:25:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:25:48 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:724657899 码发我
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:29:07 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-1926905909 @3630797734 [空消息]
+00:29:07 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=3630797734
+00:29:07 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+00:29:07 DEBUG [3868978960] [Highway.Image] uploading 721953 bytes md5=52c1089e... → group 455415527
+00:29:07 DEBUG [3868978960] [Highway] image fast-upload hit for sub=top (server reusing cached resource)
+00:29:07 DEBUG [3868978960] [Highway] image fast-upload hit (server already had bytes)
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=90 reason=no schema decoder path=elem.generalFlags
+00:29:07 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:-1759167704 [图片]
+00:29:08 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:29:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:29:41 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:229086136 .
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=2 count=1 bytes=7 reason=no schema decoder path=text.pbReserve
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:29:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:29:47 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:2114805819 [回复 [机器人测试账号(3868978960)]: [图片]] @3868978960 [空消息] ？
+00:29:47 DEBUG [3868978960] [Bridge.Action] get_msg params=message_id=-1759167704
+00:29:47 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=3868978960
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:29:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:29:55 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [【仅受理建筑相关】-苏晴晴在此-(2639131152)]: ID:-121559630 请大家不要骂梨小达xswl
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+00:30:04 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:30:04 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-90474899 。
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:30:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:30:10 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:1728183712 人家给了更多的钱
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:30:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:30:13 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1900497113 为啥要骂
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:16 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=100 reason=no schema decoder path=elem.generalFlags
+00:30:16 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1525694047 [图片]
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=116 reason=no schema decoder path=elem.generalFlags
+00:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:30:32 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [白日梦想家已退出群聊(3223845398)]: ID:-2090764008 怎么办明天就跟crush面基了但是我们闹不愉快了我现在有点不想理他了
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=115 reason=no schema decoder path=elem.generalFlags
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:37 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [白日梦想家已退出群聊(3223845398)]: ID:-1774122831 [图片]
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:30:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:30:55 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [【仅受理建筑相关】-苏晴晴在此-(2639131152)]: ID:-470270816 [回复 [白日梦想家已退出群聊(3223845398)]: 怎么办明天就跟crush面基了但是我们闹不愉快了我现在有点不...] hyw（）
+00:30:55 DEBUG [3868978960] [Bridge.Action] get_msg params=message_id=-2090764008
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=108 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [【仅受理建筑相关】-苏晴晴在此-(2639131152)]: ID:-1709433589 [图片]
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:30:59 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [【仅受理建筑相关】-苏晴晴在此-(2639131152)]: ID:-1734766118 [图片]
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:03 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=103 reason=no schema decoder path=elem.generalFlags
+00:31:03 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:457773418 [图片]
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=116 reason=no schema decoder path=elem.generalFlags
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:10 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [白日梦想家已退出群聊(3223845398)]: ID:-1738405118 [图片]
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:31:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:12 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1727353443 中秋节更新模拟大都市
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=116 reason=no schema decoder path=elem.generalFlags
+00:31:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:31:22 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [白日梦想家已退出群聊(3223845398)]: ID:-1172121622 要不是演唱会票退不了了我真的不想去了
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=112 reason=no schema decoder path=elem.generalFlags
+00:31:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:31:24 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [白日梦想家已退出群聊(3223845398)]: ID:-1151870754 还下雨
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=115 reason=no schema decoder path=elem.generalFlags
+00:31:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=6 reason=no schema decoder path=elem
+00:31:25 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [白日梦想家已退出群聊(3223845398)]: ID:977740701 哎
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:31:26 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [【仅受理建筑相关】-苏晴晴在此-(2639131152)]: ID:-669141603 [图片]
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:31:26 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-1179623934 [回复 [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: 中秋节更新模拟大都市] @1780412693 中秋你更新，我也更新
+00:31:26 DEBUG [3868978960] [Bridge.Action] get_msg params=message_id=-1727353443
+00:31:26 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=1780412693
+00:31:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:29 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=99 reason=no schema decoder path=elem.generalFlags
+00:31:29 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-1611291439 我更新大版本
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:31:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:36 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:246958945 我不发
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+00:31:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:43 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-152214958 我是写内容的颜色
+00:31:44 WARN  [3868978960] [Event] 群撤回 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)] 被 [咖啡Coffee🏳️‍⚧️🍥(1780412693)] 撤回
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+00:31:47 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:47 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-513605124 我是写内容的意思
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:31:56 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:31:56 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-778577070 [回复 [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: 我不发] @1780412693 我知道
+00:31:56 DEBUG [3868978960] [Bridge.Action] get_msg params=message_id=246958945
+00:32:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:32:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:32:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:32:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:32:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:32:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=95 reason=no schema decoder path=elem.generalFlags
+00:32:14 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:800426115 我的意思是我去跟踪新版本变更
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=106 reason=no schema decoder path=elem.generalFlags
+00:33:33 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:33:33 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:2039737879 你干啥了
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=100 reason=no schema decoder path=elem.generalFlags
+00:33:39 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:726488759 [图片]
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=116 reason=no schema decoder path=elem.generalFlags
+00:33:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:33:46 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [丿angles灬神(2407939408)]: ID:1951453673 更新内容我都不知道怎么适配了，经济，炒股?
+已摆烂
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:17 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=96 reason=no schema decoder path=elem.generalFlags
+00:34:17 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-675675037 [回复 [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: 你干啥了] @1780412693 我要去
+00:34:17 DEBUG [3868978960] [Bridge.Action] get_msg params=message_id=2039737879
+00:34:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:34:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:34:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:34:19 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-1881613721 26.3！
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+00:34:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:34:32 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:-1532671148 。
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:34:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=100 reason=no schema decoder path=elem.generalFlags
+00:34:38 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [咖啡Coffee🏳️‍⚧️🍥(1780412693)]: ID:168099486 [图片]
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=101 reason=no schema decoder path=elem.generalFlags
+00:35:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:35:28 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Riaoda梨小达(2322744303)]: ID:-598984298 哦
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=102 reason=no schema decoder path=elem.generalFlags
+00:35:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:35:34 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Riaoda梨小达(2322744303)]: ID:-584433938 我中秋版本更新个大学
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=102 reason=no schema decoder path=elem.generalFlags
+00:35:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:35:46 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Riaoda梨小达(2322744303)]: ID:-511842889 做一些飞艇什么的建筑然后上锁
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:35:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:35:59 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Riaoda梨小达(2322744303)]: ID:-1311700159 npc必须达到什么等级后才能做
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=101 reason=no schema decoder path=elem.generalFlags
+00:36:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:36:19 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Riaoda梨小达(2322744303)]: ID:-870909767 然后学习炒股的npc可以让股市的涨率加一点
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=102 reason=no schema decoder path=elem.generalFlags
+00:36:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:36:38 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Riaoda梨小达(2322744303)]: ID:-1700211716 学习医学的npc可以让医院覆盖范围更大
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=3 reason=no schema decoder path=elem.generalFlags
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=112 reason=no schema decoder path=elem.generalFlags
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+00:36:41 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Gotoh 一里(3205626274)]: ID:1532540538 [图片]
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=118 reason=no schema decoder path=elem.generalFlags
+00:36:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:36:53 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [只(1773903001)]: ID:-199724299 你简直是天下
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=118 reason=no schema decoder path=elem.generalFlags
+00:36:55 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:36:55 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [只(1773903001)]: ID:-509074040 天才
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=118 reason=no schema decoder path=elem.generalFlags
+00:37:12 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:37:12 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [只(1773903001)]: ID:1610396539 战斗军队是不是可以秒末影龙
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:36 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:39:36 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:1595860078 @1780412693 [空消息]
+00:39:36 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=1780412693
+00:39:36 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+00:39:36 DEBUG [3868978960] [Highway.Image] uploading 721953 bytes md5=52c1089e... → group 455415527
+00:39:37 DEBUG [3868978960] [Highway] image fast-upload hit for sub=top (server reusing cached resource)
+00:39:37 DEBUG [3868978960] [Highway] image fast-upload hit (server already had bytes)
+00:39:37 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+00:39:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:39:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+00:39:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:37 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=94 reason=no schema decoder path=elem.generalFlags
+00:39:37 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:1344684772 [图片]
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:38 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=99 reason=no schema decoder path=elem.generalFlags
+00:39:38 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-2033724800 [图片]
+00:39:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:39:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:39:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:39:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:39:59 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:273165335 agent有点脑子不够用了
+00:45:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:45:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:45:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:45:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:45:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:45:22 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:45:22 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-2057112586 nms
+00:45:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:45:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:45:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:45:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:45:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:45:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:45:54 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:1582815775 net.minecraft.server
+00:47:05 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+00:47:05 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+00:47:05 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:47:05 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:47:05 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+00:47:05 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+00:47:05 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:1436933457 nmsEntity
+01:30:31 INFO  [3868978960] [Event] 入群 3436991552 加入 [NSUK模组-用户群｜壹(1046985079)]
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=92 reason=no schema decoder path=elem.generalFlags
+01:30:32 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=7 reason=no schema decoder path=elem
+01:30:32 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [Q群管家(2854196310)]: ID:1582838774 @3436991552 [空消息] NSUK为精神续作，整合包相关问题不要在该群提问，提问前必须看群公告和小亮的视频，赞助可加内测用户群 [图片]
+01:30:32 DEBUG [3868978960] [Bridge] member cache refreshed: group=1046985079 reason=group_member_join
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=8 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.bigFace
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.bigFace
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=116 reason=no schema decoder path=elem.generalFlags
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+01:30:34 DEBUG              [MsgPush.UnknownElement] wire element ignored fields=text reason=no recognized MessageElement payload
+01:30:34 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [丿angles灬神(2407939408)]: ID:345534076 [表情]
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=8 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.bigFace
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.bigFace
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=114 reason=no schema decoder path=elem.generalFlags
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+01:30:48 DEBUG              [MsgPush.UnknownElement] wire element ignored fields=text reason=no recognized MessageElement payload
+01:30:48 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [丿angles灬神(2407939408)]: ID:-224127170 [表情]
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=91 reason=no schema decoder path=elem.generalFlags
+01:31:08 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+01:31:08 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [时雨羽衣gachi(3436991552)]: ID:-1945315369 有没有大佬知道城市怎么升级呀
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=91 reason=no schema decoder path=elem.generalFlags
+01:31:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+01:31:11 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [时雨羽衣gachi(3436991552)]: ID:69392652 在这里卡住了
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:31:14 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=89 reason=no schema decoder path=elem.generalFlags
+01:31:14 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [时雨羽衣gachi(3436991552)]: ID:1165102287 [图片]
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+01:32:19 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+01:32:19 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [时雨羽衣gachi(3436991552)]: ID:-25690414 我是1.20.1的版本
+02:12:54 INFO  [3868978960] [Event] 入群 1921716903 加入 [NSUK模组-用户群｜壹(1046985079)]
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=92 reason=no schema decoder path=elem.generalFlags
+02:12:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=7 reason=no schema decoder path=elem
+02:12:54 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [Q群管家(2854196310)]: ID:335201475 @1921716903 [空消息] NSUK为精神续作，整合包相关问题不要在该群提问，提问前必须看群公告和小亮的视频，赞助可加内测用户群 [图片]
+02:12:55 DEBUG [3868978960] [Bridge] member cache refreshed: group=1046985079 reason=group_member_join
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=156 reason=no schema decoder path=elem.generalFlags
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+02:16:24 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+02:16:24 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [忆旧庭(1921716903)]: ID:1498860919 @2854196310 [空消息]
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+02:16:25 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=7 reason=no schema decoder path=elem
+02:16:25 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [Q群管家(2854196310)]: ID:274003067 @1921716903 [卡片:猜你想问以下问题]
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+02:16:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=7 reason=no schema decoder path=elem
+02:16:27 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [Q群管家(2854196310)]: ID:-2090657962 @1921716903 [空消息] 灯具店，711，中餐厅等等商业建筑，非官方（不是模组自带）的建筑。相关问题可以垂询整合包作者或者商业...
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=108 reason=no schema decoder path=elem.generalFlags
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+02:19:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+02:19:07 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [忆旧庭(1921716903)]: ID:2057399157 @1461598064 哈喽，你那个npc现在可以自己生产面包了吗
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+02:19:31 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+02:19:31 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [忆旧庭(1921716903)]: ID:-2120118817 我面包店那个箱子小麦都快满了，就是不生产面包
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=108 reason=no schema decoder path=elem.generalFlags
+02:22:27 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+02:22:27 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [忆旧庭(1921716903)]: ID:-731486074 都饿死了。。。
+02:30:33 WARN  [3868978960] [OneBot.WS-Server] [ws-default] socket error: read ECONNRESET
+02:30:39 WARN               [App] Shutting down (SIGINT)...
+02:30:39 INFO  [3868978960] [Bridge.Action] Action ingress quiesced
+02:30:39 DEBUG              [Bridge] session closed: UIN=3868978960
+18:20:13 INFO               [App] SnowLuma starting
+18:20:13 INFO               [WebUI] login rate-limit keyed by: socket peer (default)
+18:20:13 INFO               [WebUI] listening http://127.0.0.1:5099
+18:20:18 WARN               [App] Shutting down (SIGINT)...
+18:20:35 INFO               [App] SnowLuma starting
+18:20:35 INFO               [WebUI] login rate-limit keyed by: socket peer (default)
+18:20:35 INFO               [WebUI] listening http://127.0.0.1:5099
+18:21:25 DEBUG              [Bridge] session started: UIN=3868978960
+18:21:25 OK                 [Hook] login detected: PID=3260 UIN=3868978960
+18:21:25 INFO               [SysFace] system face catalog restored: entries=404 uniqueFaces=361 overlaps=43 packs=11 fetchedAt=1790176889425 elapsedMs=13
+18:21:25 INFO               [Hook] pipe connected: PID=3260
+18:21:25 INFO               [Bridge] friends loaded: UIN=3868978960 count=2
+18:21:25 DEBUG              [Bridge] self info: UIN=3868978960 uid=u_jZJgPsdnXIKKkbBRm7oOyQ nickname=(ㆀ˘･з･˘)
+18:21:26 INFO               [SysFace] system face catalog refreshed: entries=404 uniqueFaces=361 overlaps=43 packs=11 elapsedMs=243
+18:21:26 INFO               [OneBot] session started: UIN=3868978960
+18:21:26 OK    [3868978960] [OneBot.HTTP] [http-default] listening 127.0.0.1:3000/
+18:21:26 OK    [3868978960] [OneBot.WS-Server] [ws-default] listening 127.0.0.1:3001/
+18:21:26 INFO               [OneBot] network startup applied: UIN=3868978960 adapters=2
+18:21:26 INFO               [Bridge] groups loaded: UIN=3868978960 count=4
+18:21:26 INFO               [OneBot] rkeys loaded: UIN=3868978960 count=2
+18:21:26 INFO               [Bridge.Contacts] loaded robot UIN ranges uin=3868978960 version=206 count=5
+18:21:28 INFO               [Bridge] member warmup completed: UIN=3868978960 groups=4/4 members=4296 failed=0
+18:21:28 DEBUG [3868978960] [Event] login history sync disabled for this account lifecycle
+18:21:42 DEBUG [3868978960] [Bridge.Action] get_login_info params=
+18:21:42 DEBUG [3868978960] [Bridge.Action] fetch_custom_face_detail params=count=100
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:21:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:21:59 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [.(2948635257)]: ID:-1365030620 听的老人言
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:22:13 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:22:13 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [.(2948635257)]: ID:2066930167 爽玩一整年
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:22:15 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [.(2948635257)]: ID:1254272648 [图片]
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:24:59 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:24:59 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-904892457 /cmd
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+18:25:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:25:01 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:1092503619 look
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+18:25:06 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:25:06 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:1333604642 /cmdlook
+18:25:06 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+18:25:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:25:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:25:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:07 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+18:25:07 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:2081198791 正在截取屏幕...
+18:25:07 INFO               [OneBot] 群聊 455415527 | 发送：正在截取屏幕...
+18:25:08 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+18:25:08 DEBUG [3868978960] [Highway.Image] uploading 939134 bytes md5=34f08073... → group 455415527
+18:25:09 DEBUG [3868978960] [Highway] image OIDB requires bytes, PUT 939134 bytes (sub=top)
+18:25:10 DEBUG              [Highway] highway upload done: 939134 bytes over 1 connection(s) (cmdId=1004)
+18:25:10 DEBUG [3868978960] [Highway] image PUT done in 1423ms
+18:25:11 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+18:25:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+18:25:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+18:25:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:25:11 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=93 reason=no schema decoder path=elem.generalFlags
+18:25:11 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:-632716625 [图片]
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:26:39 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+18:26:39 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:814419320 @3868978960 [空消息]
+18:26:39 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=3868978960
+18:26:39 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+18:26:39 DEBUG [3868978960] [Highway.Image] uploading 721953 bytes md5=52c1089e... → group 455415527
+18:26:39 DEBUG [3868978960] [Highway] image fast-upload hit for sub=top (server reusing cached resource)
+18:26:39 DEBUG [3868978960] [Highway] image fast-upload hit (server already had bytes)
+18:26:40 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+18:26:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:26:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+18:26:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:26:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=94 reason=no schema decoder path=elem.generalFlags
+18:26:40 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:618911059 [图片]
+18:27:09 DEBUG              [Hook] receive health armed by QQ heartbeat: PID=3260 UIN=3868978960
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=105 reason=no schema decoder path=elem.generalFlags
+18:27:28 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:27:28 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [念兮(2035889137)]: ID:-1381625626 好了可以了
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=33 reason=no schema decoder path=body.richText
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+18:27:42 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:-1160620607 @3630797734 [空消息]
+18:27:42 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=455415527 user_id=3630797734
+18:27:42 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=1]
+18:27:42 DEBUG [3868978960] [Highway.Image] uploading 721953 bytes md5=52c1089e... → group 455415527
+18:27:42 DEBUG [3868978960] [Highway] image fast-upload hit for sub=top (server reusing cached resource)
+18:27:42 DEBUG [3868978960] [Highway] image fast-upload hit (server already had bytes)
+18:27:43 INFO               [OneBot] 群聊 455415527 | 发送：[图片]
+18:27:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:27:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=3 reason=no schema decoder path=elem
+18:27:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:43 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=94 reason=no schema decoder path=elem.generalFlags
+18:27:43 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:280171824 [图片]
+18:27:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:27:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:27:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=98 reason=no schema decoder path=elem.generalFlags
+18:27:46 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:2083859786 欸我去
+18:27:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:27:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:27:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:27:54 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=95 reason=no schema decoder path=elem.generalFlags
+18:27:54 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [Helvetica_Volubi(1945892653)]: ID:711822301 我的电话呢
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:28:26 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:28:26 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-896411889 1
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:28:40 OK    [3868978960] [Event] 群 [NSUK模组-高级用户群(455415527)] | [我是梦蓝咯(3630797734)]: ID:-1750580442 1
+18:28:40 DEBUG [3868978960] [Bridge.Action] send_group_msg params=group_id=455415527 message=[len=2]
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+18:28:40 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [老张（knnn）(2278873874)]: ID:-1574168653 @3050808784 想玩点啥跟我
+18:28:40 DEBUG [3868978960] [Bridge.Action] get_group_member_info params=group_id=1012992000 user_id=3050808784
+18:28:40 INFO               [OneBot] 群聊 455415527 | 发送：你爷爷是我。
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:40 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=90 reason=no schema decoder path=elem.generalFlags
+18:28:40 OK    [3868978960] [Event] [自身] 群 [NSUK模组-高级用户群(455415527)] | [机器人测试账号(3868978960)]: ID:902155934 @3630797734 你爷爷是我。
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=109 reason=no schema decoder path=elem.generalFlags
+18:28:42 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:28:42 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [老张（knnn）(2278873874)]: ID:1362957572 说
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:28:44 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=11 wireType=0 count=1 bytes=1 reason=no schema decoder path=text.pbReserve
+18:28:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=89 reason=no schema decoder path=elem.generalFlags
+18:28:45 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:28:45 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [苏晴晴在此(2639131152)]: ID:-1460207237 [回复 [念兮(2035889137)]: 可是我没有金币，我有一大堆城市资金] 不是
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=110 reason=no schema decoder path=elem.generalFlags
+18:28:46 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:28:46 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [老张（knnn）(2278873874)]: ID:648294544 给你找
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=107 reason=no schema decoder path=elem.generalFlags
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=5 reason=no schema decoder path=elem
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=2 wireType=2 count=1 bytes=21 reason=no schema decoder path=commonElem.msgInfo.msgInfoBody[0].hashSum
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=2 count=1 bytes=3 reason=no schema decoder path=commonElem.msgInfo.extBizInfo
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=3 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=4 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=18 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=21 wireType=2 count=1 bytes=13 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=30 wireType=2 count=1 bytes=87 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=31 wireType=2 count=1 bytes=33 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=34 wireType=0 count=1 bytes=1 reason=no schema decoder path=commonElem.msgInfo.extBizInfo.pic.extData
+18:28:48 OK    [3868978960] [Event] 群 [梦蓝的被窝(1012992000)] | [老张（knnn）(2278873874)]: ID:-1331087710 [图片]
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=103 reason=no schema decoder path=elem.generalFlags
+18:28:53 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:28:53 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [苏晴晴在此(2639131152)]: ID:-1860298820 他只是显示是金币
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=1 wireType=2 count=1 bytes=34 reason=no schema decoder path=body.richText
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=10 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=12 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=13 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=16 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=17 wireType=0 count=1 bytes=1 reason=no schema decoder path=elem.generalFlags
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=19 wireType=2 count=1 bytes=106 reason=no schema decoder path=elem.generalFlags
+18:29:01 DEBUG              [MsgPush.UnknownElement] wire element ignored unknownTag=9 wireType=2 count=1 bytes=8 reason=no schema decoder path=elem
+18:29:01 OK    [3868978960] [Event] 群 [NSUK模组-用户群｜壹(1046985079)] | [苏晴晴在此(2639131152)]: ID:157875958 实际上花的是城市资金
+18:34:11 WARN  [3868978960] [OneBot.WS-Server] [ws-default] socket error: read ECONNRESET
+18:34:19 WARN               [App] Shutting down (SIGINT)...
+18:34:19 INFO  [3868978960] [Bridge.Action] Action ingress quiesced

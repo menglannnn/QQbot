@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>创意工坊</title>
+    <meta name="description" content="创意工坊 · 玩家作品画廊" />
+    <link rel="icon" href="/assets/logo.png" type="image/png" />
+    <script>
+      (() => { try { const s = localStorage.getItem("site-theme"); const t = s || "light"; document.documentElement.dataset.theme = t; document.documentElement.style.colorScheme = t; } catch { document.documentElement.dataset.theme = "dark"; document.documentElement.style.colorScheme = "dark"; } })();
+    </script>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260710-02" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/"><img class="brand__logo" src="/assets/logo.png" alt="Logo" onerror="this.onerror=null;this.src='/logo.svg';" /><span class="brand__text">NewSimUKraft</span></a>
+      <nav class="nav">
+        <a href="/">首页</a>
+        <a href="/workshop.html">创意工坊</a>
+        <a href="/gallery.html">图集</a>
+        <a class="nav__btn" href="/feedback.html">反馈</a>
+        <button class="theme-toggle" type="button" data-theme-toggle="1" aria-label="切换主题"><span class="theme-toggle__icon" data-theme-icon>☀</span><span class="theme-toggle__label" data-theme-label>亮色</span></button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="section__head" data-kicker="workshop">
+          <h1 class="h1">创意工坊</h1>
+          <p>玩家投稿的优秀作品画廊。浏览全部作品,或登录后提交你自己的作品。</p>
+        </div>
+        <div class="button-row" style="gap:12px;flex-wrap:wrap;max-width:1100px;margin:0 auto;">
+          <a class="btn btn--primary" href="/workshop-submit.html">我要投稿</a>
+          <a class="btn btn--ghost" href="/workshop-all.html">浏览全部作品</a>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="section__head section__head--row" data-kicker="gallery">
+          <div>
+            <h2>精选作品</h2>
+            <p>展示最新审核通过的作品,点「浏览全部作品」查看更多。</p>
+          </div>
+          <a class="btn btn--ghost" href="/workshop-all.html">全部作品 →</a>
+        </div>
+        <div class="workshop-grid" id="workshop-grid" data-limit="8">
+          <div class="panel panel--empty">作品加载中...</div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="/assets/site.js?v=20260710-02"></script>
+    <script type="module" src="/assets/workshop.js?v=20260710-02"></script>
+  </body>
+</html>

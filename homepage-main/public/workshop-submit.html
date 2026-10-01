@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>投稿 · 创意工坊</title>
+    <link rel="icon" href="/assets/logo.png" type="image/png" />
+    <script>
+      (() => { try { const s = localStorage.getItem("site-theme"); const t = s || "light"; document.documentElement.dataset.theme = t; document.documentElement.style.colorScheme = t; } catch { document.documentElement.dataset.theme = "dark"; document.documentElement.style.colorScheme = "dark"; } })();
+    </script>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260710-02" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/"><img class="brand__logo" src="/assets/logo.png" alt="Logo" onerror="this.onerror=null;this.src='/logo.svg';" /><span class="brand__text">NewSimUKraft</span></a>
+      <nav class="nav">
+        <a href="/">首页</a>
+        <a href="/workshop.html">创意工坊</a>
+        <a href="/workshop-all.html">全部作品</a>
+        <a class="nav__btn" href="/feedback.html">反馈</a>
+        <button class="theme-toggle" type="button" data-theme-toggle="1" aria-label="切换主题"><span class="theme-toggle__icon" data-theme-icon>☀</span><span class="theme-toggle__label" data-theme-label>亮色</span></button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="section__head" data-kicker="submit">
+          <h1 class="h1">投稿作品</h1>
+          <p>登录后提交作品(图片、NBT 文件与下载链接均为必填),审核通过后会展示在工坊。官网仅提供 NBT 在线预览,下载通过你填写的站外链接跳转。</p>
+        </div>
+        <div class="panel">
+          <div class="hint" id="workshop-auth-hint">正在检查登录状态...</div>
+          <form class="form" id="workshop-form" style="margin-top: 12px;">
+            <div class="grid grid--2">
+              <div class="field">
+                <div class="field__label">作品名称</div>
+                <input class="input" id="workshop-title" maxlength="60" placeholder="例如 现代商店街 01" required />
+              </div>
+              <div class="field">
+                <div class="field__label">投稿分类</div>
+                <select class="select" id="workshop-category" required></select>
+              </div>
+            </div>
+            <div class="field">
+              <div class="field__label">描述介绍</div>
+              <textarea class="textarea" id="workshop-description" maxlength="1200" placeholder="请说明作品用途、结构特点、适用场景或放置说明。" required></textarea>
+            </div>
+            <div class="grid grid--2">
+              <div class="field">
+                <div class="field__label">作品图片(必填,可多选,单张 ≤10MB)</div>
+                <div class="filepick">
+                  <input class="filepick__input" id="workshop-images" type="file" accept="image/png,image/jpeg,image/webp,image/gif,.png,.jpg,.jpeg,.webp,.gif" multiple />
+                  <button class="btn btn--ghost filepick__btn" type="button" data-filepick-for="workshop-images">选择图片</button>
+                  <span class="filepick__name" data-filepick-name="workshop-images" data-filepick-empty="未选择图片">未选择图片</span>
+                </div>
+              </div>
+              <div class="field">
+                <div class="field__label">NBT 文件(必填,仅用于在线预览)</div>
+                <div class="filepick">
+                  <input class="filepick__input" id="workshop-file-nbt" type="file" accept=".nbt" />
+                  <button class="btn btn--ghost filepick__btn" type="button" data-filepick-for="workshop-file-nbt">选择文件</button>
+                  <span class="filepick__name" data-filepick-name="workshop-file-nbt" data-filepick-empty="未选择文件">未选择文件</span>
+                </div>
+                <div class="hint">作品卡片会提供 NBT Viewer 在线预览入口;官网不提供 NBT 文件下载。</div>
+              </div>
+            </div>
+            <div class="field">
+              <div class="field__label">下载链接(必填)</div>
+              <input class="input" id="workshop-download-url" type="url" maxlength="300" placeholder="https:// 作品的站外下载页(网盘、发布页等)" required />
+              <div class="hint">玩家将通过此链接跳转到站外下载,请确保链接长期有效。</div>
+            </div>
+            <div class="field">
+              <div class="button-row" style="justify-content:space-between;align-items:center;">
+                <div class="field__label" style="margin:0;">附加外链</div>
+                <button class="btn btn--ghost" type="button" id="workshop-link-add">添加外链</button>
+              </div>
+              <div class="link-editor" id="workshop-links" style="margin-top:8px;"></div>
+              <div class="hint">这里可以填写教程页、演示视频、配套下载页等站外链接。</div>
+            </div>
+            <div class="form__actions">
+              <div class="hint">提交后会进入待审核状态,审核通过前不会公开显示。</div>
+              <button class="btn btn--primary" type="submit">提交投稿</button>
+            </div>
+          </form>
+          <div class="toast" id="workshop-toast"></div>
+        </div>
+      </section>
+
+      <section class="section" id="workshop-mine-section" hidden>
+        <div class="section__head" data-kicker="mine">
+          <h2>我的投稿</h2>
+          <p>这里会显示你自己的待审核、已通过和被打回记录。</p>
+        </div>
+        <div class="history is-open" id="workshop-mine-list">
+          <div class="history__item"><div class="history__left"><div class="history__name">投稿记录加载中...</div></div></div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="/assets/site.js?v=20260710-02"></script>
+    <script type="module" src="/assets/workshop.js?v=20260710-02"></script>
+  </body>
+</html>

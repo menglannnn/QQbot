@@ -1,0 +1,42 @@
+name = "homepage"
+main = "dist/index.js"
+compatibility_date = "2024-11-01"
+compatibility_flags = ["nodejs_compat"]
+
+# 开启日志(console.error 等可在 dashboard → 该 Worker → Observability/Logs 查看)
+[observability]
+enabled = true
+
+# ---- 静态资源(替代 Pages):public/ 里的 html/css/assets/vendor ----
+# 请求先匹配静态文件;没有匹配的(/api/*、/uploads/* 等)才进 Worker。
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+# ---- D1:关系数据(users/roles/feedback/workshop/...) ----
+[[d1_databases]]
+binding = "DB"
+database_name = "nsuk"
+database_id = "b330bccd-fbb9-429f-a130-dc3b537ac4d4"
+
+# ---- KV:session + 注册验证码 ----
+[[kv_namespaces]]
+binding = "KV"
+id = "450297534a2d4f39be8f6548d8536c59"
+
+# ---- R2:上传文件 ----
+[[r2_buckets]]
+binding = "R2"
+bucket_name = "nsuk-uploads"
+
+# ---- 非敏感变量 ----
+[vars]
+SMTP_HOST = "smtp.feishu.cn"
+SMTP_PORT = "465"
+FROM_NAME = "NSUK 账号系统"
+
+# ---- secrets(用命令写或在 dashboard 设,不入库)----
+# wrangler secret put SESSION_SECRET
+# wrangler secret put SMTP_USER
+# wrangler secret put SMTP_PASS
+# wrangler secret put COOKIE_SECURE   (值填 1)
